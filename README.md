@@ -22,15 +22,13 @@ Start the Deployment Manager in interactive mode
 Select the hardware where you want to deploy your model
 Select the folder containing your application code, models, and data
 
-![image1]
+![image1](https://raw.githubusercontent.com/ARBUCHELI/PACKAGING-YOUR-APPLICATION-WITH-OPENVINO/master/imagen1.jpg)
 
-![image2]
+![image2](https://raw.githubusercontent.com/ARBUCHELI/PACKAGING-YOUR-APPLICATION-WITH-OPENVINO/master/imagen2.jpg)
 
-![image3]
+![image3](https://raw.githubusercontent.com/ARBUCHELI/PACKAGING-YOUR-APPLICATION-WITH-OPENVINO/master/imagen3.jpg)
 
-![image4]
-
-
+![image4](https://raw.githubusercontent.com/ARBUCHELI/PACKAGING-YOUR-APPLICATION-WITH-OPENVINO/master/imagen4.jpg)
 
 # Quiz Yourself
 Which of the following can be included in the package created by the deployment manager?
