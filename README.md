@@ -36,10 +36,10 @@ Which of the following can be included in the package created by the deployment 
 (For each of the options below, get some mental practice by thinking about whether it should be included or not included, and then click on the button to see if you are correct.)
 
 ## Application Code
-<strong>Included!<strong> Your application code is what loads the model and runs inference and it needs to be a part of the runtime package.
+<strong>Included!</strong> Your application code is what loads the model and runs inference and it needs to be a part of the runtime package.
   
 ## Models
-<code>Included!</code> Any model used by the application can be added to the runtime package. It is good practice to add this since your deployment device might not have an internet connection to be able to download the model. Moreover, by packaging both your application code and model together, you can get an idea of the total memory your deployment device will need.
+<strong>Included!</strong> Any model used by the application can be added to the runtime package. It is good practice to add this since your deployment device might not have an internet connection to be able to download the model. Moreover, by packaging both your application code and model together, you can get an idea of the total memory your deployment device will need.
 
 ## OpenVINO Toolkit
 <strong>Included!</strong> The runtime package will contain all the necessary parts of the OpenVINO toolkit that is needed to run your application code.
